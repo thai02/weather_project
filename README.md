@@ -36,7 +36,7 @@ No canto inferior esquerdo da tela, é possível alterar o idioma da aplicação
 When starting the application, the user must type the name of a city and click on “Search” so that the temperature and description of the current weather are displayed on the screen. 
 The system supports three languages ​​(Brazilian Portuguese, English, and Simplified Chinese) and was developed in Python.
 
-| Exemplo |
+| Example |
 |----------|
 | ![image](https://github.com/user-attachments/assets/40545ddd-0138-4684-ac1d-05c676f91617) | 
 
